@@ -53,6 +53,7 @@ Bundle 'tomtom/tlib_vim'
 Bundle 'tpope/vim-fugitive'
 Bundle 'vim-scripts/a.vim'
 Bundle 'jwhitley/vim-matchit'
+Bundle 'bling/vim-airline'
 " vundle cleanup
 filetype plugin indent on
 
@@ -67,6 +68,11 @@ set linebreak
 set number
 set ts=2
 set shiftwidth=2
-set guifont=Menlo:h18
+if has('macunix')
+	set guifont=Menlo:h18
+else
+	set guifont=DejaVu\ Sans\ Mono\ 18
+endif
+set laststatus=2
 "NERDTree
 runtime bundle/vim-matchit/plugin/matchit.vim
