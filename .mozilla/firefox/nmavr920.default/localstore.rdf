@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://stylish/content/install.xul">
+    <NC:persist RDF:resource="chrome://stylish/content/install.xul#stylish"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/places/bookmarkProperties2.xul">
+    <NC:persist RDF:resource="chrome://browser/content/places/bookmarkProperties2.xul#bookmarkproperties"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
+                   screenY="27"
+                   height="1021"
+                   width="959"
+                   screenX="0"
+                   sizemode="maximized" />
+  <RDF:Description RDF:about="chrome://global/content/customizeToolbar.xul">
+    <NC:persist RDF:resource="chrome://global/content/customizeToolbar.xul#CustomizeToolbarWindow"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/downloads.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/downloads/downloads.xul#downloadManager"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#liberator-statusline"
+                   currentset="liberator-mode-toolbar,liberator-message-toolbar,liberator-status-toolbar" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#addon-bar"
+                   currentset="addonbar-closebutton,spring,status-bar"
+                   collapsed="true" />
+  <RDF:Description RDF:about="chrome://mozapps/content/plugins/pluginInstallerWizard.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/plugins/pluginInstallerWizard.xul#plugin-installer-wizard"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://global/content/customizeToolbar.xul#CustomizeToolbarWindow"
+                   width="830"
+                   height="528" />
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#navigator-toolbox"
+                   abp-iconposition="visible,PersonalToolbar,https-everywhere-button" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#addon-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#navigator-toolbox"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#toolbar-menubar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#PersonalToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#TabsToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#liberator-statusline"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pippki/content/exceptionDialog.xul#exceptiondialog"
+                   screenX="706"
+                   screenY="270"
+                   width="500"
+                   height="480" />
+  <RDF:Description RDF:about="chrome://noscript/content/noscriptOptions.xul">
+    <NC:persist RDF:resource="chrome://noscript/content/noscriptOptions.xul#noscriptOptions"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/search/engineManager.xul#engineManager"
+                   screenX="700"
+                   screenY="321"
+                   width="513"
+                   height="378" />
+  <RDF:Description RDF:about="chrome://mozapps/content/plugins/pluginInstallerWizard.xul#plugin-installer-wizard"
+                   screenX="593"
+                   screenY="260"
+                   width="733"
+                   height="587"
+                   sizemode="normal" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#toolbar-menubar"
+                   currentset="menubar-items"
+                   autohide="true" />
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"
+                   screenX="710"
+                   screenY="319" />
+  <RDF:Description RDF:about="chrome://noscript/content/clearClick.xul#clearClick"
+                   screenX="734"
+                   screenY="362" />
+  <RDF:Description RDF:about="chrome://mozapps/content/handling/dialog.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/handling/dialog.xul#handling"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   sidebarcommand=""
+                   width=""
+                   src="" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#nav-bar"
+                   currentset="unified-back-forward-button,urlbar-container,reload-button,stop-button,webrtc-status-button,home-button,window-controls,social-share-button"
+                   collapsed="true" />
+  <RDF:Description RDF:about="chrome://mozapps/content/handling/dialog.xul#handling"
+                   screenX="769"
+                   screenY="349"
+                   width="381"
+                   height="381" />
+  <RDF:Description RDF:about="chrome://browser/content/openLocation.xul#openLocation"
+                   screenX="663"
+                   screenY="429" />
+  <RDF:Description RDF:about="chrome://browser/content/openLocation.xul">
+    <NC:persist RDF:resource="chrome://browser/content/openLocation.xul#openLocation"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/search/engineManager.xul">
+    <NC:persist RDF:resource="chrome://browser/content/search/engineManager.xul#engineManager"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/places/bookmarkProperties2.xul#bookmarkproperties"
+                   screenX="736"
+                   screenY="425"
+                   width="440" />
+  <RDF:Description RDF:about="chrome://stylish/content/install.xul#stylish"
+                   sizemode="normal"
+                   screenX="0"
+                   screenY="18"
+                   width="1916"
+                   height="1041" />
+  <RDF:Description RDF:about="chrome://noscript/content/noscriptOptions.xul#noscriptOptions"
+                   screenX="611"
+                   screenY="262" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"
+                   screenX="0"
+                   screenY="18"
+                   lastSelected="panePrivacy" />
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/downloads.xul#downloadManager"
+                   screenX="0"
+                   sizemode="normal"
+                   screenY="18"
+                   width="1916"
+                   height="1041" />
+  <RDF:Description RDF:about="chrome://noscript/content/clearClick.xul">
+    <NC:persist RDF:resource="chrome://noscript/content/clearClick.xul#clearClick"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pippki/content/exceptionDialog.xul">
+    <NC:persist RDF:resource="chrome://pippki/content/exceptionDialog.xul#exceptiondialog"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#TabsToolbar"
+                   currentset="appmenu-toolbar-button,tabbrowser-tabs,new-tab-button,alltabs-button,tabs-closebutton" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#PersonalToolbar"
+                   collapsed="false"
+                   currentset="personal-bookmarks,downloads-button,readable_by_evernote__button,abp-toolbarbutton,https-everywhere-button,noscript-tbb,stylish-toolbar-button,greasemonkey-tbb" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul">
+    <NC:persist RDF:resource="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"/>
+  </RDF:Description>
+</RDF:RDF>
