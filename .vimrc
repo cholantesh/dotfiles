@@ -16,7 +16,6 @@ Bundle 'gmarik/vundle'
 " feature plugins
 Bundle 'Shougo/neocomplcache'
 Bundle 'garbas/vim-snipmate'
-Bundle 'honza/snipmate-snippets'
 Bundle 'kien/ctrlp.vim'
 Bundle 'briandoll/change-inside-surroundings.vim'
 "Bundle 'chrisbra/color_highlight'
@@ -32,6 +31,8 @@ Bundle 'tpope/vim-surround'
 "Bundle 'vim-scripts/matchit.zip'
 Bundle 'scrooloose/nerdtree'
 Bundle 'jistr/vim-nerdtree-tabs'
+Bundle 'scrooloose/syntastic'
+
 "" UI plugins
 "Bundle 'vim-scripts/ZoomWin'
 "" theme plugins
