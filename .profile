@@ -1,5 +1,0 @@
-alias cl='clear'
-alias ls='ls -al'
-alias cr='open -a /Applications/Google\ Chrome.app --args --incognito'
-alias aws='ssh -i /Users/Tesh/Downloads/Firefox\ Downloads/AWS_KeyPair_1.pem ec2-user@ec2-50-16-24-103.compute-1.amazonaws.com' 
-alias matrix='ssh nmayuranathan@matrix.senecac.on.ca'
